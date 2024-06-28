@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">二阶魔方浏览器</string>
+    <string name="actions">生成步骤：</string>
+    <string name="revert">复原步骤：</string>
+
+</resources>
